@@ -1,6 +1,8 @@
 # ELDERLY
 
 A Flutter project.
+This project was quite useful for me dear , so nice of you for uploading such good things here.
+keep contributing here.
 
 App helps caregivers manage stress, appointments, and health emergencies.
 Provides information on elderly care options: long- term care, nursing, hospice, assisted living, etc and Focuses on 
